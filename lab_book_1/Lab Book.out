@@ -1,0 +1,17 @@
+\BOOKMARK [0][-]{chapter*.2}{Wednesday, 6 June 2018}{}% 1
+\BOOKMARK [1][-]{experiment.1.1}{A mathematical derivation of the free energy considering adhesion}{chapter*.2}% 2
+\BOOKMARK [1][-]{section.0.1}{A phase field formulation for cell growth, division and contact considering cell adhesion}{chapter*.2}% 3
+\BOOKMARK [1][-]{section.0.2}{Mathematical analysis of the revised model}{chapter*.2}% 4
+\BOOKMARK [0][-]{chapter*.3}{Tuesday, 12th June 2018}{}% 5
+\BOOKMARK [1][-]{experiment.2.1}{deal.ii Code snippet of the free energy formulation}{chapter*.3}% 6
+\BOOKMARK [0][-]{chapter*.4}{Wednesday, 13th June 2018}{}% 7
+\BOOKMARK [1][-]{experiment.3.1}{Phase field simulations results with adhesion term}{chapter*.4}% 8
+\BOOKMARK [0][-]{chapter*.6}{Tuesday, 26th June 2018}{}% 9
+\BOOKMARK [1][-]{experiment.4.1}{Equivalence of Shape and Material Model}{chapter*.6}% 10
+\BOOKMARK [1][-]{section.0.3}{The Shape Model}{chapter*.6}% 11
+\BOOKMARK [1][-]{section.0.4}{The Mooney-Rivlin Material Model}{chapter*.6}% 12
+\BOOKMARK [1][-]{section.0.5}{The Equivalent Relationship}{chapter*.6}% 13
+\BOOKMARK [0][-]{chapter*.7}{Friday, 29th June 2018}{}% 14
+\BOOKMARK [1][-]{experiment.5.1}{Equivalent Model Results using MATLAB}{chapter*.7}% 15
+\BOOKMARK [0][-]{chapter*.8}{Tuesday, 3 July 2018}{}% 16
+\BOOKMARK [1][-]{experiment.6.1}{Equivalent Model Results using MATLAB}{chapter*.8}% 17
